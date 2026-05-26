@@ -6119,12 +6119,15 @@ Hay tres niveles de riesgo:
 \* 5 podcasts confirmados
 \* 10 reseñas de lectores beta listas para el día del
 
+
 # &#60;/03.1>
 
 
 
 
+
 # &#60;04>
+
 
 **<Mckinnon manuscrito completo v4 ·>**
 
@@ -7644,12 +7647,14 @@ Eso.
 
 </Mckinnon manuscrito completo v4 ·>
 
+
 #&#60;/04>
 
 
 
 
 # &#60;04.1>
+
 
 imaginemos que esta version 4, en visperas de posiblemente una ultima edición antes de publivar llega a manos de expertos en novelas y del tema. Imagina que eres uno de ellos , realizame tres reseñas que podrian hacer al libro, teniendo un escenario negativo, positivo y neutral. esto con el fin de conocer sus criticas expertas a nuestro conteido.
 
@@ -9272,10 +9277,12 @@ El Acto II sigue siendo el más corto — ese es el trabajo que queda en la sigu
 
 ¿Seguimos con la expansión del Acto II para equilibrar los tres actos, o pasamos a otro frente?
 
+
 # &#60;/04.1>
 
 
 # &#60;05>
+
 
 <normal Mckinnon manuscrito definitivo · MD>
 
@@ -11225,7 +11232,9 @@ Este libro está escrito en primera persona desde la perspectiva de Gary McKinno
 # &#60;/05>
 
 
+
 # &#60;05.1>
+
 
 adelante con la expansion del acto II
 
@@ -13786,10 +13795,13 @@ El Acto III creció de 8.409 a 8.707 palabras — 298 palabras netas de calidad 
 
 El Acto II sigue siendo el más corto — es el territorio que más necesita expansión en la siguiente ronda. ¿Seguimos con eso, o hay otro frente que quieras atacar?
 
+
 # &#60;/05.1>
 
 
+
 # &#60;06>
+
 
 **<Mckinnon manuscrito definitivo v3>**
 
@@ -15820,10 +15832,12 @@ Este libro está escrito en primera persona desde la perspectiva de Gary McKinno
 
 </Mckinnon manuscrito definitivo v3>
 
+
 # &#60;/06>
 
 
 # &#60;06.1>
+
 
 Seguimos con el acto II
 
