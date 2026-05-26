@@ -16601,6 +16601,4 @@ Cap07 V7: 2216 palabras
 Listo
 
 Arranco con los tres en V7.
-
 # </06.1>
-
