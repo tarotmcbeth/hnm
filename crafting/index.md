@@ -1,8 +1,6 @@
 \# PROMPT PARA REDACTAR "EL ARTE DE CONTAR HISTORIAS EN EL TAROT"  
 Autor: Artur Chejov 
 
-Fuente: [https://claude.ai/share/49a7fc4f-7477-48e4-9c28-71139ac18a80](https://claude.ai/share/49a7fc4f-7477-48e4-9c28-71139ac18a80)
-
 \#\# DESCRIPCIÓN GENERAL DEL PROYECTO
 
 Crea un libro transformador sobre el arte del storytelling aplicado al tarot, titulado "El Arte de Contar Historias en el Tarot". El libro debe aspirar al nivel de los grandes referentes como Alejandro Jodorowsky, combinando profundidad espiritual, innovación metodológica, aplicabilidad práctica y un estilo literario cautivador. Este libro revolucionará la práctica del tarot al presentar un enfoque narrativo único que transforma las lecturas en experiencias iniciáticas y sanadoras.
