@@ -1,4 +1,4 @@
-# <01>
+# &#60;01>
 
 Guía de fuentes  
 PROMPT ACTUALIZADO: EL MISTERIO DE GARY MCKINNON  
@@ -694,9 +694,9 @@ En conclusión, tienes entre manos un material base con un ritmo narrativo excel
 
 
 
-# </01>
+# &#60;/01>
 
-# <02>
+# &#60;02>
 
 Fuente: [https://claude.ai/share/e966f590-32d6-4546-9679-238fa8154791](https://claude.ai/share/e966f590-32d6-4546-9679-238fa8154791)  
 de Lizzi claude lizzi  
@@ -2499,11 +2499,11 @@ La imagen.
 
 *> Cambios respecto al borrador:* *> — La desclasificación de los vídeos de la Marina (2020) y la confirmación del AATIP (2017) se contextualizan con precisión: nombres de los vídeos, año, autenticación del Pentágono. El borrador los mencionaba de forma genérica.* *> — El comandante David Fravor nombrado. Es el testigo más documentado del incidente "Tic-Tac" y su testimonio está verificado en múltiples fuentes primarias.* *> — Gary reconoce explícitamente que no puede descartar que lo que vio fuera una construcción de su mente. Esta honestidad epistémica es lo que separa un epílogo de no ficción riguroso de uno que se rinde a la narrativa fácil. El libro no resuelve la ambigüedad central — la sostiene hasta el final.* *> — Talha Ahsan reaparece en el epílogo. Su historia no puede cerrarse en el Cap. 12: regresó al Reino Unido en 2014 y pertenece al balance final de lo que este caso fue y fue.* *> — El detalle de Janis preguntando sobre estrellas a los padres de Gary proviene de sus declaraciones a IEEE Spectrum, verificadas en Grokipedia. Conecta el cierre del libro con la primera imagen del Capítulo 1: el niño que siempre quiso saber qué hay ahí fuera.* *> — Corrección final: eliminada la última referencia al "Sinclair ZX81" que aparecía en el borrador del epílogo. El libro termina sin ese error.*
 
-# </02>
+# &#60;/02>
 
 
 
-# <03>
+# &#60;03>
 
 si quisiera hacer una siguiente revision de este borrador, como deberia solicitar el prompt de una forma más profesional con las caracteristicas de un prompt para este objetivo? que habolidades debes adoptar para generarlo?
 
@@ -3129,9 +3129,9 @@ Indicaciones
 7 fuentes·19 may 2026  
 Estos documentos detallan la historia real de Gary McKinnon, un técnico escocés que ejecutó el mayor hackeo militar de la historia al infiltrarse en 97 ordenadores del Pentágono y la NASA entre 2001 y 2002. Motivado por una obsesión profunda con la existencia de vida extraterrestre, McKinnon buscó evidencias ocultas de naves espaciales y tecnología avanzada, logrando acceder a archivos confidenciales antes de ser capturado en Londres. Las fuentes exponen su batalla legal de diez años contra la extradición a Estados Unidos, donde enfrentaba una posible condena de hasta setenta años de prisión. El relato destaca su diagnóstico de Síndrome de Asperger como un factor decisivo para que el gobierno británico bloqueara su traslado por razones humanitarias. Finalmente, los textos analizan la dualidad entre la veracidad de sus hallazgos y la posibilidad de que sus descubrimientos fueran interpretaciones sesgadas por su condición psicológica.
 
-# </03>
+# &#60;/03>
 
-# <03.1>
+# &#60;03.1>
 
 El prompt funcionó perfectamente — la tercera revisión es exactamente el nivel de feedback editorial que buscábamos. Vamos por orden.
 
@@ -6117,11 +6117,11 @@ Hay tres niveles de riesgo:
 \* 5 podcasts confirmados
 \* 10 reseñas de lectores beta listas para el día del
 
-# </03.1>
+# &#60;/03.1>
 
 
 
-# <04>
+# &#60;04>
 
 **<Mckinnon manuscrito completo v4 ·>**
 
@@ -7641,11 +7641,11 @@ Eso.
 
 </Mckinnon manuscrito completo v4 ·>
 
-# </04>
+#&#60;/04>
 
 
 
-# <04.1>
+# &#60;04.1>
 
 imaginemos que esta version 4, en visperas de posiblemente una ultima edición antes de publivar llega a manos de expertos en novelas y del tema. Imagina que eres uno de ellos , realizame tres reseñas que podrian hacer al libro, teniendo un escenario negativo, positivo y neutral. esto con el fin de conocer sus criticas expertas a nuestro conteido.
 
@@ -9268,9 +9268,9 @@ El Acto II sigue siendo el más corto — ese es el trabajo que queda en la sigu
 
 ¿Seguimos con la expansión del Acto II para equilibrar los tres actos, o pasamos a otro frente?
 
-# </04.1>
+# &#60;/04.1>
 
-# <05>
+# &#60;05>
 
 <normal Mckinnon manuscrito definitivo · MD>
 
@@ -11217,9 +11217,9 @@ Este libro está escrito en primera persona desde la perspectiva de Gary McKinno
 
 </normal Mckinnon manuscrito definitivo · MD>
 
-# </05>
+# &#60;/05>
 
-# <05.1>
+# &#60;05.1>
 
 adelante con la expansion del acto II
 
@@ -13780,9 +13780,9 @@ El Acto III creció de 8.409 a 8.707 palabras — 298 palabras netas de calidad 
 
 El Acto II sigue siendo el más corto — es el territorio que más necesita expansión en la siguiente ronda. ¿Seguimos con eso, o hay otro frente que quieras atacar?
 
-# </05.1>
+# &#60;/05.1>
 
-# <06>
+# &#60;06>
 
 **<Mckinnon manuscrito definitivo v3>**
 
@@ -15813,9 +15813,9 @@ Este libro está escrito en primera persona desde la perspectiva de Gary McKinno
 
 </Mckinnon manuscrito definitivo v3>
 
-# </06>
+# &#60;/06>
 
-# <06.1>
+# &#60;06.1>
 
 Seguimos con el acto II
 
@@ -16601,4 +16601,6 @@ Cap07 V7: 2216 palabras
 Listo
 
 Arranco con los tres en V7.
-# </06.1>
+
+# &#60;/06.1>
+
